@@ -1,0 +1,50 @@
+CPU BrandString: AMD Ryzen 3 PRO 4450U with Radeon Graphics
+MicrocodeRevision: 0x00000000
+Virtualization 0
+CPUID 00860F01 00080800 7ED8320B 178BFBFF
+ExtSigEcx 75C237FF
+ExtSigEdx 2FD3FBFF
+Type 0x00
+Family 0x0F
+Model 0x60
+ExtModel 0x06
+ExtFamily 0x08
+Stepping 0x01
+Features 0x7ED8320B178BFBFF
+ExtFeatures 0x75C237FF2FD3FBFF
+Signature 0x00860F01
+Brand 0x00
+AppleProcessorType 0x0F01
+CstConfigLock 0
+CpuGeneration 0
+MaxId 0x00000010
+MaxExtId 0x80000020
+PackageCount 1
+CoreCount 4
+ThreadCount 8
+ExternalClock 103
+ARTFrequency 0
+CPUFrequency 2495312072
+CPUFrequencyFromTSC 2495312072
+CPUFrequencyFromART 0
+TscAdjust 0
+CPUFrequencyFromApple 0
+CPUFrequencyFromVMT 0
+FSBFrequency 103971336
+
+CPU00:
+
+CPU01:
+
+CPU02:
+
+CPU03:
+
+CPU04:
+
+CPU05:
+
+CPU06:
+
+CPU07:
+
